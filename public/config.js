@@ -1,2 +1,1 @@
-// Insira somente o link oficial do seu checkout entre as aspas.
-window.CHECKOUT_URL = "";
+window.CHECKOUT_URL = "https://pay.wiapy.com/0AJBeRYq5INa";
